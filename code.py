@@ -2,7 +2,8 @@ import sqlite3
 import tkinter as tk
 from tkinter import messagebox
 import datetime
-
+import telebot
+#dfgdfgdfgdgdf
 # Установка соединения с базой данных
 conn = sqlite3.connect('college.db')
 c = conn.cursor()
